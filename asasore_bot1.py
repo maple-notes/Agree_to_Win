@@ -15,7 +15,7 @@ prompts = [
 ]
 
 # タイトルを表示
-st.title("Alphabet Challenge")
+st.title("Agree to Win! ~the alphabet game~")
 
 # 説明文を表示
 st.write("Press the button to generate a random prompt and letter.")
