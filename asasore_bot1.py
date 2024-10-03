@@ -11,7 +11,10 @@ prompts = [
     "Architectural styles",
     "Structural components of a building",
     "Dream travel destinations",
-    "'high' in any sense (height, price, or value)"
+    "'high' in any sense (height, price, or value)",
+    "Something you don't want to do",
+    "Something convenient",
+    "Cool big word"
 ]
 
 # タイトルを表示
